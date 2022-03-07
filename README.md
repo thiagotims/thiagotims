@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, I'm Thiago Tim, welcome! 👋
 
 I graduated in Social Sciences at University of São Paulo in 2009 and I finished my Master Degree in Anthropology in 2018 where I studied the role of digital technologies in political practices. 
 Nowadays, I have been studying Web Development (HTML, CSS, JS and Node) and Python.
