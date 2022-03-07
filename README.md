@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**thiagotims/thiagotims** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I graduated in Social Sciences at University of São Paulo in 2009 and I finished my Master Degree in Anthropology in 2018 where I studied the role of digital technologies in political practices. 
+Nowadays, I have been studying Web Development (HTML, CSS, JS and Node) and Python.
 
-Here are some ideas to get you started:
+## Interests ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Front-End 
+- Back-End
+- Machine Learning
+- AI
+- Python
+- Complex Network
+- Education
+- Social Science
+- Digital and Democracy
+- Digital and Social Development
+- Science
+
+## Contact me ⚡
+
+Feel free to contact me, use and modify any code!
