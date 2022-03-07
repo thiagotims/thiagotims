@@ -20,11 +20,9 @@ Nowadays, I have been studying Web Development (HTML, CSS, JS and Node) and Pyth
 
 - Front-End 
 - Back-End
-- Machine Learning
-- AI
+- AI & Machine Learning
 - Python
 - Data Science
-- Complex Network
 - Education
 - Social Science
 - Digital, Social Development and Democracy
