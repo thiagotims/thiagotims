@@ -16,7 +16,7 @@ Nowadays, I have been studying Web Development (HTML, CSS, JS and Node) and Pyth
 - Social Science
 - Digital, Social Development and Democracy
 - Science
-- Literature
+- Arts & Literature
 
 ## Contact me ⚡
 
