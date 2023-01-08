@@ -1,12 +1,12 @@
 ## Hello World, I'm Thiago Tim, welcome! 👋
 
 I graduated in Social Sciences at University of São Paulo in 2009 and I finished my Master Degree in Anthropology in 2018 where I studied the role of digital technologies in political practices. 
-Nowadays, I have been studying machine learning techniques (specifically neural networks and natural language processing), data science and Python.
+Nowadays, I have been studying machine learning techniques (specifically neural networks and natural language processing), data science and Python. In the future I intend to develop and contribute to projects that articulate knowledge of artificial intelligence and social sciences (anthropology, sociology, linguistics and political science).
 
 ## 🛠 &nbsp;Tech Stack
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
