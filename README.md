@@ -1,7 +1,7 @@
 ## Hello World, I'm Thiago Tim, welcome! 👋
 
 I graduated in Social Sciences at University of São Paulo in 2009 and I finished my Master Degree in Anthropology in 2018 where I studied the role of digital technologies in political practices. 
-Nowadays, I have been studying machine learning techniques (specifically neural networks and natural language processing), data science and Python. In the future I intend to develop and contribute to projects that articulate knowledge of artificial intelligence and social sciences (anthropology, sociology, linguistics and political science).
+Nowadays, I have been studying machine learning techniques (specifically neural networks and natural language processing), data science and Python. In the future I intend to develop and contribute to projects that articulate knowledge in artificial intelligence and social sciences (anthropology, sociology, linguistics and political science).
 
 ## 🛠 &nbsp;Tech Stack
 
