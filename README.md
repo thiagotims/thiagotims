@@ -27,9 +27,8 @@ Nowadays, I have been studying machine learning techniques (specifically neural 
 
 ## Interests ⚡
 
-- Front-End 
-- Back-End
 - AI & Machine Learning
+- NLP
 - Python
 - Data Science
 - Education
